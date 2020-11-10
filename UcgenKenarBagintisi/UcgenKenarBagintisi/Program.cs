@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq.Expressions;
 
-namespace Ucgen_Kenar_Baglantisi
+namespace UcgenKenarBagintisi
 {
     class Program
     {
